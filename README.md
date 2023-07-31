@@ -20,7 +20,7 @@ Excel/ - This directory is used to store the Excel sheet with the company inform
 website_test.xlsx - The Excel sheet that contains the list of solar company names, websites, and additional information.
 How to Use:
 
-Open the Excel sheet website_test.xlsx and ensure it contains the following columns: "Firma" (company name), "Link" (website URL), "E-Mail" (company email), "Tel" (contact number), "Hoymiles," "Deye," "APsystems," and "Huawei" (columns for solar-related keywords).
+Open the Excel sheet original website .xlsx and ensure it contains the following columns: "Firma" (company name), "Link" (website URL), "E-Mail" (company email), "Tel" (contact number), "Hoymiles," "Deye," "APsystems," and "Huawei" (columns for solar-related keywords).
 
 Open the VBA editor and create a new module. Paste the VBA script from vba_code.vba into the module. The VBA script will convert hyperlinks to text in the "Link" column.
 
